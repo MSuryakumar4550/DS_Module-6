@@ -13,8 +13,11 @@ To write a C program to implement Tower of Hanoi
     
 ## Program:
 
+```
 Developed by: M.Suryakumar
 RegisterNumber: 212224040340
+
+```
 
 ```
 
